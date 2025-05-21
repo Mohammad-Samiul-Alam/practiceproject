@@ -1,5 +1,5 @@
-<p> = 4 bit parallel load register
-= shift register
+#b = 4 bit parallel load register
+#b = shift register
 = decoder expansion
 = 9 bit priority encoder(xm)
 = 4 bit synchronous binary counter
